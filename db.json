@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jai",
+      "email": "jai@gmail.com",
+      "age": 28,
+      "phone": 9098987322
+    },
+    {
+      "id": 2,
+      "name": "sri",
+      "email": "sri@gmail.com",
+      "age": 25,
+      "phone": 8098987322,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "srinika",
+      "email": "srinika@gmail.com",
+      "age": 1,
+      "phone": 5098987322,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "jaishvik",
+      "email": "jaishvik@gmail.com",
+      "age": 0,
+      "phone": 6098987322,
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "name": "johnny",
+      "email": "johnnyk@gmail.com",
+      "age": 0,
+      "phone": 2098987322,
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "name": "john",
+      "email": "john@gmail.com",
+      "age": 20,
+      "phone": 3098987322,
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "kyle",
+      "email": "kyle@gmail.com",
+      "age": 31,
+      "phone": 1098987322,
+      "status": "active"
+    }
+  ]
+}
